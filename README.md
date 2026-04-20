@@ -10,11 +10,9 @@
 
 1. Установи расширение **[Violentmonkey](https://violentmonkey.github.io)** / **[Tampermonkey](https://www.tampermonkey.net)** в свой браузер
 
-2. Нажми сюда → **[Установить скрипт](https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/refs/heads/main/kinobox-kinopoisk-button.user.js)**
+2. Нажми сюда → **[Кнопка](https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/refs/heads/main/kinobox-kinopoisk-button.user.js)** / **[Флажок в углу экрана](https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/refs/heads/main/kinobox-flag.user.js)**
 
 Или добавь вручную
-
-**[Флажок в углу экрана](https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/refs/heads/main/kinobox-flag.user.js)**
 
 **[Версия](https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/refs/heads/main/kinobox-kinopoisk-floating-button.user.js)** с плавующей кнопкой слева если возникнут проблемы с интерфейсом (или вам так больше нравится)
 
