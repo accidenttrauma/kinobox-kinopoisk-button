@@ -1,6 +1,6 @@
-# Kinohub Button for Kinopoisk
+# Kinomix Button for Kinopoisk
 
-**Интегрированная в интерфейс** кнопка, которая направляет по прямой ссылке на просмотр фильма или сериала на **[Kinohub](https://on.kinohub.vip)** прямо из интерфейса **[Кинопоиска](https://www.kinopoisk.ru)**.
+**Интегрированная в интерфейс** кнопка, которая направляет по прямой ссылке на просмотр фильма или сериала на **[Kinomix](https://on.kinomix.vip)** прямо из интерфейса **[Кинопоиска](https://www.kinopoisk.ru)**.
 
 ### ✨ Что делает скрипт
 - Добавляет круглую кнопку рядом с кнопкой "Буду смотреть"
@@ -10,9 +10,9 @@
 
 1. Установи расширение **[Violentmonkey](https://violentmonkey.github.io)** / **[Tampermonkey](https://www.tampermonkey.net)** в свой браузер
 
-2. Нажми сюда → **[Установить скрипт](https://raw.githubusercontent.com/accidenttrauma/kinohub-kinopoisk-button/refs/heads/main/kinomix-kinopoisk-button.user.js)**
+2. Нажми сюда → **[Установить скрипт](https://raw.githubusercontent.com/accidenttrauma/kinomix-kinopoisk-button/refs/heads/main/kinomix-kinopoisk-button.user.js)**
 
-**[Версия](https://raw.githubusercontent.com/accidenttrauma/kinohub-kinopoisk-button/refs/heads/main/kinomix-kinopoisk-floating-button.user.js)** с плавующей кнопкой слева если возникнут проблемы с интерфейсом
+**[Версия](https://raw.githubusercontent.com/accidenttrauma/kinomix-kinopoisk-button/refs/heads/main/kinomix-kinopoisk-floating-button.user.js)** с плавующей кнопкой слева если возникнут проблемы с интерфейсом
 
 Или добавь вручную
 
