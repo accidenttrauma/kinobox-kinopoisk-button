@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kinomix Floating Button
 // @namespace    https://github.com/accidettrauma/kinomix-kinopoisk-button
-// @version      0.3
+// @version      0.1
 // @description  Плавающая кнопка Kinomix слева от карточки фильма (стабильный вариант)
 // @author       accidettrauma
 // @match        https://www.kinopoisk.ru/film/*
