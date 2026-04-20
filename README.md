@@ -12,9 +12,9 @@
 
 2. Нажми сюда → **[Установить скрипт](https://raw.githubusercontent.com/accidenttrauma/kinomix-kinopoisk-button/refs/heads/main/kinomix-kinopoisk-button.user.js)**
 
-**[Версия](https://raw.githubusercontent.com/accidenttrauma/kinomix-kinopoisk-button/refs/heads/main/kinomix-kinopoisk-floating-button.user.js)** с плавующей кнопкой слева если возникнут проблемы с интерфейсом (или вам так больше нравится)
-
 Или добавь вручную
+
+**[Версия](https://raw.githubusercontent.com/accidenttrauma/kinomix-kinopoisk-button/refs/heads/main/kinomix-kinopoisk-floating-button.user.js)** с плавующей кнопкой слева если возникнут проблемы с интерфейсом (или вам так больше нравится)
 
 ### Скриншот
 
