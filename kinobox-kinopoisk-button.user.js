@@ -3,14 +3,14 @@
 // @namespace    https://github.com/accidettrauma/kinobox-kinopoisk-button
 // @version      0.1
 // @description  Круглая кнопка рядом с кнопкой "Буду смотреть"
-// @author       accidettrauma
+// @author       accidenttrauma
 // @match        https://www.kinopoisk.ru/film/*
 // @match        https://www.kinopoisk.ru/series/*
 // @grant        none
 // @run-at       document-end
-// @icon         https://raw.githubusercontent.com/accidettrauma/kinobox-kinopoisk-button/main/icon.png
-// @downloadURL  https://raw.githubusercontent.com/accidettrauma/kinobox-kinopoisk-button/main/kinobox-kinopoisk-button.user.js
-// @updateURL    https://raw.githubusercontent.com/accidettrauma/kinobox-kinopoisk-button/main/kinobox-kinopoisk-button.user.js
+// @icon         https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/main/icon.png
+// @downloadURL  https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/main/kinobox-kinopoisk-button.user.js
+// @updateURL    https://raw.githubusercontent.com/accidenttrauma/kinobox-kinopoisk-button/main/kinobox-kinopoisk-button.user.js
 // ==/UserScript==
 
 (function () {
