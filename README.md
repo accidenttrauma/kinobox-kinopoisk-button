@@ -22,7 +22,7 @@
 
 ### Скриншот флажка
 
-<img width="1291" height="783" alt="vivaldi_dQ0tUJNVAF" src="https://github.com/user-attachments/assets/a68df7c6-6f28-4db9-a857-97f594ec63d4" />
+<img width="1291" height="574" alt="image" src="https://github.com/user-attachments/assets/183a89a2-0c20-4c41-919b-522780497642" />
 
 
 ### Лицензия
