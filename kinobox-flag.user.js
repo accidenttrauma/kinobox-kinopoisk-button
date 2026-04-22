@@ -30,7 +30,7 @@
             <svg width="34" height="150" viewBox="0 0 128 512" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
                 <path d="M128 0H0V512L64 480L128 512Z" fill="#000000"/>
                 <!-- Белая кнопка Play, смотрит вправо, ниже центра -->
-                <path d="M40 348 L100 380 L40 412 Z" fill="#ffffff"/>
+                <path d="M40 358 L100 390 L40 423 Z" fill="#ffffff"/>
             </svg>
         `;
 
@@ -39,7 +39,7 @@
             left: 8px;
             top: -48px;
             width: 32px;
-            height: 180px;
+            height: 128px;
             z-index: 2147483647;
             cursor: pointer;
             transition: transform 0.35s ease;
