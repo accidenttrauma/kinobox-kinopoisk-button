@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kinobox Flag
 // @namespace    https://github.com/accidettrauma/kinobox-kinopoisk-button
-// @version      0.1
+// @version      1.0
 // @description  Чёрный флажок сверху слева
 // @author       accidenttrauma
 // @match        https://www.kinopoisk.ru/film/*
